@@ -18,7 +18,3 @@
 
 #### 🔧 Development
 * <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 정적 타입을 지원하는 JavaScript의 상위 집합
-
-#### 📅 Date & Time Handling
-* date-fns: JavaScript 날짜 처리 라이브러리
-
